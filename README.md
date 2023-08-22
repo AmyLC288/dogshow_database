@@ -1,1 +1,1 @@
-# dogshow_database
+# Fictional dogshow_database with 6 tables, containing primary and foreign keys to create relations. There is a trigger, an event, a stored procedure, stored functions and more. This contains multiple views, different joins and use of group by, having is also demonstrated. 
